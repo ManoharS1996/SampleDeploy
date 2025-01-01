@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import PhoneInput from 'react-phone-input-2'
-import theme from '../../../../../shared/theme.json'
+//import theme from '../../../../../shared/theme.json'
 import 'react-phone-input-2/lib/style.css';
 
 export const MainContainer = styled.div`
